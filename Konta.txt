@@ -1,0 +1,21 @@
+KONTA KLIENTÓW:
+1.
+email: oskar@oskar.com
+hasło: Klient1
+nr tel: 123
+Imie: Oskar
+Nazwisko: Oskaron
+2.
+email: adrian@oskar.com
+hasło: Klient2
+nr tel: 321
+Imie: Adrian
+Nazwisko: Adrianon
+
+KONTO PRACOWNIKÓW
+1.
+email: kawa@kawa.com
+hasło: Klient1
+Imie: Przemysław
+Nazwisko: Kawa
+nr tel: 678678678
